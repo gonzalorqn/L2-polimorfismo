@@ -1,0 +1,10 @@
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\bin\Debug\Clase09.Test.exe.config
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\bin\Debug\Clase09.Test.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\bin\Debug\Clase09.Test.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\bin\Debug\Clase09.Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\bin\Debug\Clase09.Entidades.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\obj\Debug\Clase09.Test.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\obj\Debug\Clase09.Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\obj\Debug\Clase09.Test.csproj.CopyComplete
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\obj\Debug\Clase09.Test.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase09.Test\obj\Debug\Clase09.Test.pdb
